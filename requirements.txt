@@ -1,0 +1,5 @@
+flask
+openai==0.28
+reportlab
+python-dotenv
+gunicorn
